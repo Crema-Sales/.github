@@ -24,7 +24,7 @@ We're done with that.
 
 ## The Story
 
-A 6-hour hackathon project by **Pedram Amini**, **Alex Hessler**, and **Jon Irvine** for **Code TV's Greenfield Games, Episode 3** — May 2026, Portland, Oregon.
+A 6-hour hackathon project by **<a href="https://www.linkedin.com/in/pedramamini/">Pedram Amini</a>**, **<a href="https://www.linkedin.com/in/alexhessler/">Alex Hessler</a>**, and **<a href="https://www.linkedin.com/in/jonirvinedotcom/">Jon Irvine</a>** for **Code TV's <a href="https://www.youtube.com/watch?v=JP-NoMViz6c">Greenfield Games Episode 3</a>** — May 2026, Portland, Oregon. You can <a href="https://www.youtube.com/watch?v=xcix53FQmTg">view a video walkthrough</a> of the creation or read <a href="https://pedsidian.pedramamini.com/Claude/Blog/2026-06-18-greenfield-games-post-mortem">Pedram's technical post-mortem</a> which provides further details about the approach we took.
 
 The brief we set ourselves: ship a CRM and autonomous sales agent so dialed-in that no competitor... past, present, or any foreseeable future... could match what we put together in the hackathon window. Set a bar nobody's stepping over. That was the whole ethos. Knock it out of the park, or don't bother.
 
